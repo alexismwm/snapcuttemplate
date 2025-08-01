@@ -1,2 +1,2 @@
 # snapcuttemplate
-Snapcu Template Editing
+Snapcut Template Editing
