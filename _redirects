@@ -1,6 +1,0 @@
-# Redirections pour Single Page Application
-# Toutes les routes doivent rediriger vers index.html
-/*    /index.html   200
-
-# Redirections spécifiques si nécessaire
-# /api/*  https://api.snapcut.com/api/:splat  200 
