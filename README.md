@@ -1,2 +1,0 @@
-# snapcuttemplate
-Snapcut Template Editing
